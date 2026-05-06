@@ -1,4 +1,4 @@
-# face-detection-project
+# face-Recognition-project
 🎭 Face Recognition System — FaceNet + KNN
 A real-time face recognition system that classifies individuals as Accused or Normal Citizen using FaceNet embeddings and a K-Nearest Neighbors (KNN) classifier. The system uses live webcam input and processes faces on-the-fly.
 
